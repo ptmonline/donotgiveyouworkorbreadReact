@@ -6,7 +6,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail'
 import _ from 'lodash';
 
-const API_KEY = 'AIzaSyAQFgy0pifuEhYZJ2qpPYmcP5haer-XlEA';
+const API_KEY = 'add-api-key-here';
 
 
 
